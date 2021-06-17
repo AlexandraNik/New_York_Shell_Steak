@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #########################################################################################################
 # created by: purple-thistle
-# purpose of: take elements in the format "letter+number", sort, and print out numbers as ASCII characters
+# purpose of: take elements in the format "letter+number" from file raw_meat, sort, and print out numbers as ASCII characters
 # date: 17.06.21
 # version: 0.4.2
 #########################################################################################################
