@@ -10,4 +10,4 @@ For example: X105 L72 --> L72 X105 --> 72 105 --> 'H' 'i' --> "Hi"
 
 Write a Bash script/function that reads from the file raw_meat and prints out internal shell message.
 
-(Exercise buy @silent-mobius)
+(Exercise by @silent-mobius)
